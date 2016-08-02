@@ -102,6 +102,7 @@ JAVA_PUBLIC_SOURCES_CORE = \
   java/lang/Exception.java \
   java/lang/ExceptionInInitializerError.java \
   java/lang/Float.java \
+  java/lang/FunctionalInterface.java \
   java/lang/IllegalAccessError.java \
   java/lang/IllegalAccessException.java \
   java/lang/IllegalArgumentException.java \
